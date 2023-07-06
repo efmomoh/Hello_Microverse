@@ -20,7 +20,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-- HELLO MICROVERSE is my first microverse project. In this project, we use HTML and CSS by adding an index and style file, we also used linters to analyzes our source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
+- HELLO MICROVERSE is my first Microverse project. In this project, we use HTML and CSS by adding an index and style file, we also used linters to analyze our source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -37,7 +37,7 @@
 ### Key Features <a name="key-features"></a>
 
 - Set up the linter for the project 👌
-- Add the test file and node modules at the .gitignore file🚀
+- Add the test file and node modules to the .gitignore file🚀
 - Add the styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -49,7 +49,7 @@
 
 1. Web Browser
 2. Git
-3. Code editor
+3. Code Editor
 
 ### Setup
 
@@ -62,7 +62,7 @@ Clone this repository to your desired folder Enter the following commands in the
 
 ### Install
 
-Install this project with the following commmands in the terminal:
+Install this project with the following command in the terminal:
 
 ```sh
  npm install 
@@ -74,13 +74,13 @@ Install this project with the following commmands in the terminal:
 To run the project,
 
 ```sh
-  Open the browser and enter the adress of index.html file from your computer/server
+  Open the browser and enter the address of the index.html file from your computer/server
 ```
 
 ### Run tests
 
 ```sh
-   1. npx hint .
+   1. npx hint.
    2. npx stylelint "**/*.{css,scss}"
 ```
 
@@ -107,8 +107,8 @@ You are welcome, and click <a href="https://github.com/efmomoh/Hello_Microverse/
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give it a star and follow me on github linkedIn and Twitter
-, you are also welcome for any suggestions🙏
+If you like this project please give it a star and follow me on GitHub LinkedIn and Twitter
+, you are also welcome to any suggestions🙏
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,6 +121,6 @@ I would like to thank my Microverse studying partners and my standup team for he
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/efmomoh/Hello_Microverse/blob/hello_world_feature/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
