@@ -1,4 +1,3 @@
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -6,174 +5,124 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+# 📖 Hello Microverse <a name="about-project"></a>
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
-
-
-**[Hello Microverse]** is a mini newbie project.
+- HELLO MICROVERSE is my first microverse project. In this project, we use HTML and CSS by adding an index and style file, we also used linters to analyzes our source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack">HTML & CSS</a>
+### Tech Stack <a name="tech-stack"></a>
 
-
-<!-- Features -->
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html.spec.whatwg.org/">HTML</a></li>
+    <li><a href="https://www.w3.org/TR/CSS/#css">CSS</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-
-- **[HTML]**
-- **[CSS]**
-- **[Linters]**
+- Set up the linter for the project for writing clean code👌
+- Add the test file and node modules at the .gitignore file🚀
+- Add the styling color using CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
-
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
 
-Example command:
-
-```sh
-    Use Web browser
-```
+1. Web Browser
+2. Git
+3. Code editor
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-Example commands:
+Clone this repository to your desired folder Enter the following commands in the terminal:
 
 ```sh
-  git clone https://github.com/efmomoh/Hello_World.git
+  git clone git@github.com:efmomoh/Hello_Microverse.git
+  cd Hello_Microverse
 ```
 
 ### Install
 
-Install this project with:
-
-Example command:
+Install this project with the following commmands in the terminal:
 
 ```sh
-  No Installation is Required
+ npm install 
+
 ```
 
 ### Usage
 
-To run the project, execute the following command:
-
-Example command:
+To run the project,
 
 ```sh
-  No Excution is Required
+  Open the browser and enter the adress of index.html file from your computer/server
 ```
 
 ### Run tests
 
-To run tests, run the following command:
-
-Example command:
-
 ```sh
-  No running of tests
+   1. npx hint .
+   2. npx stylelint "**/*.{css,scss}"
 ```
 
-### Deployment
+## 👥 Author <a name="authors"></a>
 
-You can deploy this project using:
-
-Example:
-
-```sh
-    No deployment
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👤 **Enssah**
 
 
 - GitHub: [@githubhandle](https://github.com/efmomoh)
 - Twitter: [@twitterhandle](https://twitter.com/@efmomoh)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/efmomoh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQI%2F5GWZxS063VqRg2rilyg%3D%3D)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **[UI-User Interface]**
-- [ ] **[Modern & Impresive Design]**
-- [ ] **[Newbies Web Content]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- [ ] **Add some more HTML content**
+- [ ] **Intergration with javascript**
+- [ ] **Intergration with database**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+## 🤝 contributing <a name="contributing"></a>
+
+You are welcome, and click <a href="https://github.com/efmomoh/Hello_Microverse/issues">here</a> for contribution, issues, and feature request 🙏
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-If you like this project feel free to contact me via mentioned Social Media Platforms above.
+If you like this project please give it a star and follow me on github linkedIn and Twitter
+, you are also welcome for any suggestions🙏
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-I would like to thank the technical experts and Micronauts at Microverse for the Support!
+I would like to thank my Microverse studying partners and my standup team for helping and encouraging me to do this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
