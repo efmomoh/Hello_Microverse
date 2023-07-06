@@ -96,8 +96,8 @@ To run the project,
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-Pop-up for the project
-Add a chatbot using API
+- Pop-up for the project
+- Add a chatbot using API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
