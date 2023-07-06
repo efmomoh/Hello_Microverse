@@ -36,9 +36,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Set up the linter for the project for writing clean code👌
+- Set up the linter for the project 👌
 - Add the test file and node modules at the .gitignore file🚀
-- Add the styling color using CSS
+- Add the styling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,10 +96,8 @@ To run the project,
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Add some more HTML content**
-- [ ] **Intergration with javascript**
-- [ ] **Intergration with database**
+Pop-up for the project
+Add a chatbot using API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
